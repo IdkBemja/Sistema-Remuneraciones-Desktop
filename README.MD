@@ -20,8 +20,13 @@ Este proyecto fue creado como evaluación a la prueba nacional de programación 
 
 ## Live Test
 
-Puedes descargar el archivo compilado en releases. (No pienso actualizar esto ya que está en desarrollo un sistema de remuneraciones web)
+Puedes descargar el archivo compilado en releases. (No pienso actualizar esto ya que está en desarrollo un sistema de remuneraciones web) 
 
+## Login Credentials
+
+```bash
+  User: Admin password: admin
+```
 
 ## Autores
 

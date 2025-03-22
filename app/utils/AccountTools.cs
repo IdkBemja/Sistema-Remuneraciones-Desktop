@@ -94,8 +94,8 @@ namespace Sistema_Remuneraciones.app.utils
 
         public static string login_checker(string username, string passwd)
         {
-            string adminUser = "Admin";
-            string adminPsswd = "admin";
+            string adminUser = "administrator";
+            string adminPsswd = "admin1234";
             username = username.ToLower();
 
             username = CleanRUT(username);

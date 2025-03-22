@@ -25,7 +25,7 @@ Puedes descargar el archivo compilado en releases. (No pienso actualizar esto ya
 ## Login Credentials
 
 ```bash
-  User: Admin password: admin
+  User: administrator password: admin1234
 ```
 
 ## Autores

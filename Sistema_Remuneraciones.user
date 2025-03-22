@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="app\UI\admin\admin_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="app\UI\employer\employer_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="app\UI\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="app\utils\CustomMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

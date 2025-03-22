@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema_Remuneraciones", "Sistema_Remuneraciones.csproj", "{0FFB647C-58FE-4A17-A669-37FB1B9E15FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FFB647C-58FE-4A17-A669-37FB1B9E15FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFB647C-58FE-4A17-A669-37FB1B9E15FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFB647C-58FE-4A17-A669-37FB1B9E15FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFB647C-58FE-4A17-A669-37FB1B9E15FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {991FA476-D523-4990-BEEA-B52898317100}
+	EndGlobalSection
+EndGlobal
